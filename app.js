@@ -34,7 +34,7 @@ const waitFor = async (page, seconds) => {
   }
 
   await page.waitFor(5000);
-  await browser.close();
+  //await browser.close();
 
-  console.log('Finalizado!');
+  console.log('Finalizado! Feche tudo agora!');
 })();
