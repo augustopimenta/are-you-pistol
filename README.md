@@ -31,6 +31,6 @@ npm install
 npm start "Are you Pistol?" 10
 ```
 
-Uma janela do WhatsApp Web abrirá, leie o QRCode com seu celular e selecione o grupo/contato que quer mandar as mensagens.
+Uma janela do WhatsApp Web abrirá, leia o QR Code com seu celular e selecione o grupo/contato que quer mandar as mensagens.
 
 **Você terá 10 segundos para mudar de idéia e depois a mágica acontece!**
