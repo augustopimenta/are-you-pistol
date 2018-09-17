@@ -10,20 +10,27 @@ Mande uma quantidade grande de mensagens para seus contatos do WhatsApp por meio
 
 * Clone o repositório
 ```bash
-	git clone https://github.com/augustopimenta/are-you-pistol.git
+git clone https://github.com/augustopimenta/are-you-pistol.git
 ```
 
 * Navegue até o diretório
 ```bash
-	cd are-you-pistol
+cd are-you-pistol
 ```
 
 * Instale as dependencias
 ```bash
-	npm install
+npm install
 ```
 
 * Rode a aplicação
+	* Primeiro parâmetro: A mensagem a ser enviada
+	* Segundo parâmetro: A quantidade de mensagens
+
 ```bash
-	npm start "Are you Pistol?" 10
+npm start "Are you Pistol?" 10
 ```
+
+Uma janela do WhatsApp Web abrirá, escane o QRCode e selecione o grupo/contato que quer mandar as mensagens.
+
+Você terá 10 segundos para mudar de idéia e depois a magica acontece!
